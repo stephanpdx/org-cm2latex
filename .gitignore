@@ -1,0 +1,11 @@
+*.aux
+*.bcf
+*.blg
+*.bst
+*.fmt
+*.log
+*.prv/
+*.pyg
+*.run.xml
+_region_*
+auto/
